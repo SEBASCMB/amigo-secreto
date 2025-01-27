@@ -46,4 +46,4 @@ Este proyecto es de código abierto bajo la licencia **MIT** 📜. ¡Usa, modifi
 ---
 
 **¡Que la diversión (y los regalos 🎁) comiencen!**  
-*Creado con ❤️ por [Tu Nombre Aquí] 👩💻👨💻*  
+*Creado con ❤️ por SEBASCMB 👩💻👨💻*  
